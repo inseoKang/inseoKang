@@ -35,10 +35,7 @@ AI 기능을 실제 서비스 안에 자연스럽게 녹이는 개발자를 목�
 
 ### 📚 Currently Learning
 
-<img src="https://img.shields.io/badge/Machine Learning-102230?style=flat-square"/>
-<img src="https://img.shields.io/badge/Deep Learning-102230?style=flat-square"/>
-<img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=Microsoft Azure&logoColor=white"/>
-<img src="https://img.shields.io/badge/AI Service Development-FFB6C1?style=flat-square"/>
+<img src="https://img.shields.io/badge/Machine Learning-102230?style=flat-square"/> <img src="https://img.shields.io/badge/Deep Learning-102230?style=flat-square"/> <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square"/> <img src="https://img.shields.io/badge/AI Service Development-FFB6C1?style=flat-square"/>
 
 <br/>
 
