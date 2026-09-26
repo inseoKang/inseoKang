@@ -81,7 +81,6 @@ AI 기능을 실제 사용자 경험 안에 자연스럽게 연결하는 방법*
 ### 📫 Contact
 
 - Email: iskang0026@gmail.com
-- Portfolio: Coming Soon
 
 <br/>
 
